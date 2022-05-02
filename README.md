@@ -6,16 +6,20 @@
 
 Repetição com teste no início
 
- - [Exercicio Uso do While - Nome e Idade ](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/NomeIdade.java)
+ - [Uso do While - Nome e Idade ](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/NomeIdade.java)
 
- - [Exercicio Uso do While - Nota](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/Nota.java) 
+ - [Uso do While - Nota](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/Nota.java) 
 
 #### do while - Faça...Enquanto
 Repetição com teste no final
-[]()
+ - [Uso do do...while -  Pares e Imares](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/ParEImpar.java)
+ - [Uso do do...while - Maior Número e Java](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/MaiorMedia.java)
+ 
 #### for - Para
 Repetição contada
-[]()
+ - [Uso do for, do..while e while - Tabuada](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/Tabuada.java)
+ - [Uso do for - Fatorial](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/Fatorial.java)
+
 #### break e continue
 break - termina o loop (usado tábem no switch)
 continue - para o loop em determinado ponto e repete o loop novamente
