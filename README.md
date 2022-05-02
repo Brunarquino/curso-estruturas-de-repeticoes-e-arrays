@@ -1,10 +1,15 @@
-# Curso de Estruturas de Repeticoes e Arrays
+# Curso de Estruturas de Repetições e Arrays
 
 ## Estrutura de Repetição
 
 #### while - Enquanto
+
 Repetição com teste no início
-[]()
+
+ - [Exercicio Uso do While - Nome e Idade ](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/NomeIdade.java)
+
+ - [Exercicio Uso do While - Nota](https://github.com/Brunarquino/curso-estruturas-de-repeticoes-e-arrays/blob/master/src/dio/estruturaDeRepeticoes/Nota.java) 
+
 #### do while - Faça...Enquanto
 Repetição com teste no final
 []()
